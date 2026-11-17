@@ -1,0 +1,13 @@
+transformers
+torch
+jiwer
+rapidfuzz
+opencv-python-headless
+pytesseract
+pillow
+pandas
+numpy
+matplotlib
+streamlit
+kagglehub
+accelerate
