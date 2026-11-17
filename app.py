@@ -5,8 +5,8 @@ from PIL import Image
 from rapidfuzz import process, fuzz
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 
-WORK = '/content/work'
-MODEL_DIR = WORK + '/trocr_finetuned'
+HERE = os.path.dirname(os.path.abspath(__file__))
+MODEL_DIR = 'YOUR-HF-USERNAME/trocr-prescription'
 THRESH = 60
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
@@ -14,8 +14,8 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 def load_all():
     processor = TrOCRProcessor.from_pretrained(MODEL_DIR)
     model = VisionEncoderDecoderModel.from_pretrained(MODEL_DIR).to(device).eval()
-    drugs = pd.read_csv(WORK + '/drug_list.csv')['medicine_name'].astype(str).tolist()
-    info = json.load(open(WORK + '/drug_info.json'))
+    drugs = pd.read_csv(os.path.join(HERE, 'drug_list.csv'))['medicine_name'].astype(str).tolist()
+    info = json.load(open(os.path.join(HERE, 'drug_info.json')))
     return processor, model, drugs, info
 
 def deskew(gray, max_angle=8, step=0.5):
@@ -98,4 +98,4 @@ if file is not None:
     if q:
         a = answer(q, st.session_state['med'], info)
         st.session_state['messages'] += [{'role': 'user', 'text': q}, {'role': 'assistant', 'text': a}]
-        st.rerun()
+        st.rerun()     
