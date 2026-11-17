@@ -6,7 +6,7 @@ from rapidfuzz import process, fuzz
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-MODEL_DIR = 'YOUR-HF-USERNAME/trocr-prescription'
+MODEL_DIR = 'Avni2028/trocr-prescription-bd'
 THRESH = 60
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
@@ -98,4 +98,4 @@ if file is not None:
     if q:
         a = answer(q, st.session_state['med'], info)
         st.session_state['messages'] += [{'role': 'user', 'text': q}, {'role': 'assistant', 'text': a}]
-        st.rerun()     
+        st.rerun()
