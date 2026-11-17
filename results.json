@@ -1,0 +1,28 @@
+{
+  "results": {
+    "tesseract": [
+      4.36,
+      63.46
+    ],
+    "trocr_pretrained": [
+      12.44,
+      58.56
+    ],
+    "trocr_finetuned": [
+      93.21,
+      4.33
+    ],
+    "trocr_finetuned_plus_correction": [
+      94.1,
+      4.35
+    ]
+  },
+  "train_images": 3120,
+  "val_images": 780,
+  "test_images": 780,
+  "epochs": 3,
+  "batch_size": 8,
+  "learning_rate": 3e-05,
+  "model": "microsoft/trocr-base-handwritten",
+  "correction_threshold": 60
+}

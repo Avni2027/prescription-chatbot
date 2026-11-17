@@ -1,0 +1,470 @@
+{
+  "Ace": {
+    "generic_name": "Paracetamol",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Aceta": {
+    "generic_name": "Paracetamol",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Alatrol": {
+    "generic_name": "Cetirizine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Amodis": {
+    "generic_name": "Metronidazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Atrizin": {
+    "generic_name": "Cetirizine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Axodin": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Az": {
+    "generic_name": "Azithromycin Dihydrate",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Azithrocin": {
+    "generic_name": "Azithromycin Dihydrate",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Azyth": {
+    "generic_name": "Azithromycin Dihydrate",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Bacaid": {
+    "generic_name": "Baclofen",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Backtone": {
+    "generic_name": "Baclofen",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Baclofen": {
+    "generic_name": "Baclofen",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Baclon": {
+    "generic_name": "Baclofen",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Bacmax": {
+    "generic_name": "Baclofen",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Beklo": {
+    "generic_name": "Baclofen",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Bicozin": {
+    "generic_name": "Vitamin B Complex + Zinc",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Canazole": {
+    "generic_name": "Fluconazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Candinil": {
+    "generic_name": "Fluconazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Cetisoft": {
+    "generic_name": "Cetirizine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Conaz": {
+    "generic_name": "Fluconazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Dancel": {
+    "generic_name": "Ketoconazole (Shampoo)",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Denixil": {
+    "generic_name": "Clonazepam",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Diflu": {
+    "generic_name": "Fluconazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Dinafex": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Disopan": {
+    "generic_name": "Clonazepam",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Esonix": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Esoral": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Etizin": {
+    "generic_name": "Cetirizine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Exium": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Fenadin": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Fexo": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Fexofast": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Filmet": {
+    "generic_name": "Metronidazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Fixal": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Flamyd": {
+    "generic_name": "Metronidazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Flexibac": {
+    "generic_name": "Baclofen",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Flexilax": {
+    "generic_name": "Baclofen",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Flugal": {
+    "generic_name": "Fluconazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Ketocon": {
+    "generic_name": "Ketoconazole (Shampoo)",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Ketoral": {
+    "generic_name": "Ketoconazole (Tablet)",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Ketotab": {
+    "generic_name": "Ketoconazole (Tablet)",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Ketozol": {
+    "generic_name": "Ketoconazole (Shampoo)",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Leptic": {
+    "generic_name": "Clonazepam",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Lucan-R": {
+    "generic_name": "Fluconazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Lumona": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "M-Kast": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Maxima": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Maxpro": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Metro": {
+    "generic_name": "Metronidazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Metsina": {
+    "generic_name": "Metronidazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Monas": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Montair": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Montene": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Montex": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Napa": {
+    "generic_name": "Paracetamol",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Napa Extend": {
+    "generic_name": "Paracetamol",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Nexcap": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Nexum": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Nidazyl": {
+    "generic_name": "Metronidazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Nizoder": {
+    "generic_name": "Ketoconazole (Cream)",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Odmon": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Omastin": {
+    "generic_name": "Fluconazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Opton": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Progut": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Provair": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Renova": {
+    "generic_name": "Paracetamol",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Rhinil": {
+    "generic_name": "Cetirizine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Ritch": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Rivotril": {
+    "generic_name": "Clonazepam",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Romycin": {
+    "generic_name": "Azithromycin Dihydrate (Ophthalmic)",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Rozith": {
+    "generic_name": "Azithromycin Dihydrate",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Sergel": {
+    "generic_name": "Esomeprazole",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Tamen": {
+    "generic_name": "Paracetamol",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Telfast": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Tridosil": {
+    "generic_name": "Azithromycin Dihydrate",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Trilock": {
+    "generic_name": "Montelukast Sodium",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Vifas": {
+    "generic_name": "Fexofenadine Hydrochloride",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  },
+  "Zithrin": {
+    "generic_name": "Azithromycin Dihydrate",
+    "description": "[fill from a trusted source]",
+    "used_for": "[fill from a trusted source]",
+    "form": "[fill from a trusted source]"
+  }
+}
